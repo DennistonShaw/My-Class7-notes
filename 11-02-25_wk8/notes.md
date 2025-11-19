@@ -46,6 +46,11 @@ git branch -M main
 git remote add origin https://github.com/DennistonShaw/My-Class7-notes.git
 git push -u origin main
 
+…or push an existing repository from the command line
+git remote add origin https://github.com/DennistonShaw/testy-test.git
+git branch -M main
+git push -u origin main
+
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#argument-reference
 EC2 settings I will edit in Terraform ec2
 1) name tag
