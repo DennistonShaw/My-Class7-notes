@@ -75,7 +75,9 @@ for click-ops(
    - tags == click orange button.
    - review == confirm that above config is applied to your ASG, then PRAY TO YOUR GOT OF UNDERSTANDING, and click orange button!)
 
-to test go to load balancer, click on the name, copy the DNS name into a browser with http:// or copy the ld_dns_name  from the terminal
+to test 
+- go to load balancer, click on the name, copy the DNS name into a browser with http:// or copy the ld_dns_name from the terminal
+- from the council go to ec2, load balancer, copy DNS name
 
 Teardown:
 1) asg

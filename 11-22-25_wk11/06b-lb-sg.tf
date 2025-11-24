@@ -2,7 +2,7 @@
 # for web server only 
 resource "aws_security_group" "my-working-server-lb-sg" {
   name        = "my-working-server-lb-sg"
-  description = "Allow HTTP and SSH for web server"
+  description = "allow http and outbound traffic for web alb"
   vpc_id      = aws_vpc.terraform-vpc.id
 
   tags = {
