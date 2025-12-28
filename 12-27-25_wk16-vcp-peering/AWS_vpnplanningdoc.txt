@@ -4,17 +4,17 @@ You must plan; you need to choose a human being for your partner
 
 VPC Peering worksheet
 
-my name: Dennis Shaw
-my AWS account ID: 4975-8920-5696
-my VPC name: terraform-vpc
-My VPC ID (for peering): vpc-04cbc65eefee432e7
-My VPC region (for peering): us-east-1
+my name: 
+my AWS account ID: 
+my VPC name:
+My VPC ID (for peering):
+My VPC region (for peering):
 
 --Select another student's VPC to peer with--
 
-partner's name: Larry Harris
-partner's AWS account ID: 891377135193
+partner's name:
+partner's AWS account ID:
 partner's VPC name: 
 partner's VPC ID:
-partner's VPC region: us-east-1
+partner's VPC region:
 
